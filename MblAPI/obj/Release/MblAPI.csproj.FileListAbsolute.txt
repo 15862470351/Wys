@@ -1,0 +1,8 @@
+F:\Git\MobileAPI\MblAPI\bin\MblAPI.dll
+F:\Git\MobileAPI\MblAPI\bin\MblAPI.pdb
+F:\Git\MobileAPI\MblAPI\bin\Newtonsoft.Json.dll
+F:\Git\MobileAPI\MblAPI\bin\Ultra.Web.Core.dll
+F:\Git\MobileAPI\MblAPI\bin\Newtonsoft.Json.xml
+F:\Git\MobileAPI\MblAPI\obj\Release\MblAPI.csprojResolveAssemblyReference.cache
+F:\Git\MobileAPI\MblAPI\obj\Release\MblAPI.dll
+F:\Git\MobileAPI\MblAPI\obj\Release\MblAPI.pdb
